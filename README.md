@@ -17,7 +17,7 @@ A atividade consiste em responder perguntas sobre programaçao/portugol
 
 5.R:agora aparrecera os seguintes numeros" 123  quando esse codigo é ativado o programa escreve os numeros 123 e pula a linha e a conta 100+200 que é 300 ,e ele usa o comando escreva de novo para ecrever "100+200" mas ele ponhe aspas envolta  da "300   "  conta assim tranformando a conta em uma frase e essa também é a diferença da linha 6 e da linha 7
                                          "120+200"
-
+6.R : Neste programa voce insere um numero e o programa verifica que se o numero que voce colocou no terminal é maior que 18 aparacera "maior de idade" se for menor ,não terá nada .  
 
 
 
